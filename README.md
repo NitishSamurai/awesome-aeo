@@ -48,6 +48,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 - [llms.txt Generator](https://fixaeo.com/llms-txt-generator/) — Generate a spec-compliant `llms.txt`.
 - [Schema Generator](https://fixaeo.com/schema-generator/) — Build valid JSON-LD structured data.
 - [llms-txt-gen](https://github.com/NitishSamurai/llms-txt-gen) — Open-source CLI that generates a starter `llms.txt` from your sitemap.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, and AEO, wired to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Guides & Playbooks
 
