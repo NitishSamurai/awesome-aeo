@@ -41,6 +41,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 - [Rankscale](https://rankscale.ai) — Track and deeply analyze visibility across AI search engines.
 - [RadarKit](https://radarkit.ai) — AI search tracking and content optimization.
 - [AEO Engine](https://aeoengine.ai) — Agency focused on winning brands AI citations.
+- [LLM Pulse](https://llmpulse.ai) — Tracks brand visibility, mentions and citations across ChatGPT, Perplexity, Gemini and Google AI Overviews, with AI traffic analytics.
 
 ### Free Tools & Utilities
 
