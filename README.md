@@ -45,6 +45,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 ### Free Tools & Utilities
 
 - [AI Visibility Checker](https://fixaeo.com/ai-visibility-checker/) — Score your brand across AI engines, free.
+- [AnswerLens](https://app.sfdj.net/) — Runs a free public-evidence scan for B2B SaaS sites across crawlable URLs, `llms.txt`, pricing, comparison, and proof pages.
 - [llms.txt Generator](https://fixaeo.com/llms-txt-generator/) — Generate a spec-compliant `llms.txt`.
 - [Schema Generator](https://fixaeo.com/schema-generator/) — Build valid JSON-LD structured data.
 - [llms-txt-gen](https://github.com/NitishSamurai/llms-txt-gen) — Open-source CLI that generates a starter `llms.txt` from your sitemap.
