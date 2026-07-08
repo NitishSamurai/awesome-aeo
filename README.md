@@ -38,6 +38,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 - [Profound](https://tryprofound.com) — Enterprise AI brand-visibility and answer analytics.
 - [Peec AI](https://peec.ai) — AI search analytics for marketing teams.
 - [Otterly.ai](https://otterly.ai) — AI search monitoring and GEO audits.
+- [Parse](https://parse.gl) – Tracks how brands appear in ChatGPT and Google AI Overviews, with competitor benchmarks and citation diagnostics.
 - [Rankscale](https://rankscale.ai) — Track and deeply analyze visibility across AI search engines.
 - [RadarKit](https://radarkit.ai) — AI search tracking and content optimization.
 - [AEO Engine](https://aeoengine.ai) — Agency focused on winning brands AI citations.
