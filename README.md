@@ -48,6 +48,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 - [llms.txt Generator](https://fixaeo.com/llms-txt-generator/) — Generate a spec-compliant `llms.txt`.
 - [Schema Generator](https://fixaeo.com/schema-generator/) — Build valid JSON-LD structured data.
 - [llms-txt-gen](https://github.com/NitishSamurai/llms-txt-gen) — Open-source CLI that generates a starter `llms.txt` from your sitemap.
+- [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) — Check whether documented AI-search and user-retrieval crawlers can reach a page, and distinguish robots.txt rules from observed HTTP responses.
 
 ## Guides & Playbooks
 
