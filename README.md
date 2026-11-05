@@ -41,6 +41,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 - [Rankscale](https://rankscale.ai) — Track and deeply analyze visibility across AI search engines.
 - [RadarKit](https://radarkit.ai) — AI search tracking and content optimization.
 - [AEO Engine](https://aeoengine.ai) — Agency focused on winning brands AI citations.
+- [AgentSEO](https://www.agentseo.dev/seo-mcp-server) — MCP tools for Google AI Overview analysis, repeatable AI search prompts, and brand mention checks.
 
 ### Free Tools & Utilities
 
