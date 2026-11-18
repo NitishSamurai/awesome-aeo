@@ -41,6 +41,7 @@ In practice these are used interchangeably. The goal is the same: be the source 
 - [Rankscale](https://rankscale.ai) — Track and deeply analyze visibility across AI search engines.
 - [RadarKit](https://radarkit.ai) — AI search tracking and content optimization.
 - [AEO Engine](https://aeoengine.ai) — Agency focused on winning brands AI citations.
+- [Elmo](https://github.com/elmohq/elmo) — Open-source Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, available self-hosted or as a managed cloud service.
 
 ### Free Tools & Utilities
 
