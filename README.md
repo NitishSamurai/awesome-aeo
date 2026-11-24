@@ -51,12 +51,11 @@ In practice these are used interchangeably. The goal is the same: be the source 
 
 ## Guides & Playbooks
 
-- [What is AEO?](https://fixaeo.com/blogs/what-is-aeo/) — The fundamentals, explained.
 - [AEO vs SEO](https://fixaeo.com/blogs/aeo-vs-seo/) — What changed and what to do about it.
+- [AI Search Statistics 2026](https://fixaeo.com/blogs/ai-search-statistics-2026/) — Source-linked data on how AI is reshaping search.
 - [Best AI Search Engines (tested)](https://fixaeo.com/blogs/best-ai-search-engines/) — An honest, hands-on ranking of 15 AI search engines.
 - [GEO Basics](https://paladini.io/generative-engine-optimization-basic-guide/) — Free, open-source bilingual beginner guide to GEO with source-backed lessons in English and Brazilian Portuguese.
-- [AI Search Statistics 2026](https://fixaeo.com/blogs/ai-search-statistics-2026/) — Source-linked data on how AI is reshaping search.
-
+- [What is AEO?](https://fixaeo.com/blogs/what-is-aeo/) — The fundamentals, explained.
 ## Per-Engine Optimization
 
 Different engines reward different signals. Engine-specific playbooks:
